@@ -1,0 +1,32 @@
+.level-1{
+    background-color: #00801a;
+}
+
+.level-3 {
+    background-color: #006680
+}
+
+.level-5{
+    background-color: #47006b;
+}
+
+.main {
+    background-color: white;
+    padding: 50px;
+}
+
+.audio-table {
+    width: 400px;
+    font-weight: 700;
+}
+
+.audio-table .number {
+    width: 75px;
+    background-color:#A9A9A9;
+    color: white;
+}
+
+audio {
+    height: 40px;
+    background-color: white;
+}
